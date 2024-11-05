@@ -7,5 +7,6 @@ LabletAnomaly.egg-info/
 models/*
 models/
 
-
+results/*
+results/
 
