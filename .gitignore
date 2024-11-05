@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+LabletAnomaly.egg-info/
+
+*xlsx
+
+models/*
+models/
+
+
+
